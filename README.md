@@ -1,6 +1,5 @@
 # Hi there, I'm [Liyansan Martins]! 👋
 
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
@@ -17,8 +16,8 @@ I'm a passionate **[Teacher]** . I love tackling complex problems, learning new 
 
 ## Get in Touch 📬
 
-- **[https://sites.google.com/view/liyansanmartins/]**(your_website_or_blog_link)
-- **[www.linkedin.com/in/liyansan-martins-593785367]**(your_linkedin_profile_link)
+- **[https://sites.google.com/view/liyansanmartins/]**
+- **[www.linkedin.com/in/liyansan-martins-593785367]**
   
 
 
