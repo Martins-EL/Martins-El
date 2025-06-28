@@ -6,7 +6,7 @@
 I'm a passionate **[Teacher]** . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Front End Web developments]**
-- 🌍 Languages: **[html,css,javascript,English Language and Yoruba Language]**
+- 🌍 Languages: **[English Language and Yoruba Language]**
 - 📫 How to reach me: **[liyansanm@gmail.com]**
 - ⚡ Fun fact: **[i love playing football and making people laugh]**
 
