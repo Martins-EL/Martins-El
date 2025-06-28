@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Teacher]** . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm currently enrolled in ALX PROGRAM where i am learning SOFTWARE ENGINEERING (FRONT END WEB DEVELOPMENT) . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Front End Web developments]**
 - 🌍 Languages: **[English Language and Yoruba Language]**
